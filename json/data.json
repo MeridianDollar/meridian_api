@@ -1,0 +1,88 @@
+{
+    "volume_data": {
+        "total_volume": "4283918992069654343416538354096799744",
+        "daily_volume": "8000000000000000000000000000000",
+        "hourly_volume": "",
+        "amm_volume": ""
+    },
+    "position_stats": {
+        "totalShortPositionCollaterals": "0",
+        "totalShortPositionSizes": "0",
+        "totalLongPositionSizes": "0",
+        "totalActivePositions": "0",
+        "totalLongPositionCollaterals": "0"
+    },
+    "fees_summary": {
+        "lastUpdatedAt": 1708295334,
+        "totalFees": 0,
+        "weeklyFees": 0
+    },
+    "user_data": {
+        "total_users": "2316000000000000000000000000000000"
+    },
+    "stability_pool": {
+        "telos": 53.7,
+        "fuse": 38.3,
+        "base": 83.3
+    },
+    "mst_price_30": 119600000000000007416603213824,
+    "mst_price": 0.12,
+    "mst_mcap": 1143216,
+    "mst_supply": 8165833992826105027000000,
+    "charm_price": 1803752552978805335108091904,
+    "charm_supply": 230675637589739690971365376,
+    "stability_pool_yield": 49,
+    "total_tvl": 2325090,
+    "number_of_troves": 50,
+    "fuse_stability_pool_yield": 64,
+    "voltage_fuse_usdm_liquidity": 35145.860510880535,
+    "incentives": {
+        "lending": {
+            "fuse": 79.86,
+            "meter": 4.02,
+            "telos": 41.01
+        },
+        "mint": {
+            "fuse": 90.02,
+            "telos": 40.97
+        }
+    },
+    "keepers": {
+        "oracle": {
+            "base": {
+                "value": 0.013,
+                "address": "0x5979009f2eCF5C65933F0A2C9d63C2722FB943E1"
+            },
+            "meter": {
+                "value": 296.8027,
+                "address": "0x77723e81D59EC4F20600A7d4CB0344ED271316af"
+            },
+            "telos": {
+                "value": 734.3458,
+                "address": "0x4b4c4a6e760FDEa078efC6BEa046946b639BdDEA"
+            }
+        },
+        "staking": {
+            "fuse": {
+                "value": 19.9748,
+                "address": "0x873415F6633A0C42b8717bC898354638F52b13f3"
+            },
+            "meter": {
+                "value": 48.1412,
+                "address": "0x873415F6633A0C42b8717bC898354638F52b13f3"
+            },
+            "telos": {
+                "value": 80.7926,
+                "address": "0x873415F6633A0C42b8717bC898354638F52b13f3"
+            }
+        }
+    },
+    "warnings": {
+        "health_factors": false,
+        "staking_keepers": true,
+        "oracle_keepers": false,
+        "lending_rewards": true,
+        "mint_rewards": false,
+        "block_producer": false
+    }
+}

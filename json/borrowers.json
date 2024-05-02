@@ -1,0 +1,472 @@
+[
+    {
+        "account": "0x80336E49eb059eDA5143CE9aB6B0B6c75352834D",
+        "healthFactor": 1.02298,
+        "network": "meter"
+    },
+    {
+        "account": "0x4D328e3F326C96b883b83Bfd8e29f3C2Ebfd4341",
+        "healthFactor": 1.08047,
+        "network": "fuse"
+    },
+    {
+        "account": "0xDD11EF5a5Ac03C24B5079c05a8904cDbB2eCf59D",
+        "healthFactor": 1.081,
+        "network": "meter"
+    },
+    {
+        "account": "0x2151CcD3D968f3F73BA46C6658b57CF389bedC76",
+        "healthFactor": 1.10319,
+        "network": "telos"
+    },
+    {
+        "account": "0x36fAfaF048bEf5D754C2ffCba91423c4F26E20dD",
+        "healthFactor": 1.10646,
+        "network": "telos"
+    },
+    {
+        "account": "0xf07731dc18703967bbe99ac90D4D2B66819bd670",
+        "healthFactor": 1.10782,
+        "network": "telos"
+    },
+    {
+        "account": "0x7CAA741d741a38Be582fa619eA51f4657d85E85f",
+        "healthFactor": 1.11145,
+        "network": "meter"
+    },
+    {
+        "account": "0xdcc8aAf7177c343f5ca4FfCD2324C952aFB89CE0",
+        "healthFactor": 1.11162,
+        "network": "meter"
+    },
+    {
+        "account": "0xD151d68bef0C83201B601c5Be2F3108cd38a003a",
+        "healthFactor": 1.11728,
+        "network": "meter"
+    },
+    {
+        "account": "0x4D328e3F326C96b883b83Bfd8e29f3C2Ebfd4341",
+        "healthFactor": 1.12963,
+        "network": "meter"
+    },
+    {
+        "account": "0xFDa16932cd56B9dCaB6877df96c3A6bbc6CB33c0",
+        "healthFactor": 1.1357,
+        "network": "meter"
+    },
+    {
+        "account": "0x09f3D2a101C430523D3908a31eaf014a3d388777",
+        "healthFactor": 1.14975,
+        "network": "telos"
+    },
+    {
+        "account": "0x9a58D9c13b01feE61E9aCDe3841dB8fbC7e106d2",
+        "healthFactor": 1.1535,
+        "network": "telos"
+    },
+    {
+        "account": "0xca26ECF47Ce060855E652a4179d1D461de943822",
+        "healthFactor": 1.15469,
+        "network": "fuse"
+    },
+    {
+        "account": "0xca26ECF47Ce060855E652a4179d1D461de943822",
+        "healthFactor": 1.15774,
+        "network": "meter"
+    },
+    {
+        "account": "0x09aa30325BbA56cC1A7f8F69B7238bf8140e366D",
+        "healthFactor": 1.16095,
+        "network": "telos"
+    },
+    {
+        "account": "0x8bb92B2D35DB6a219d861e934Fd1243e8a7D3aB6",
+        "healthFactor": 1.18014,
+        "network": "meter"
+    },
+    {
+        "account": "0x5a3546Ef0467333d5f2176A2d13970032886139c",
+        "healthFactor": 1.18017,
+        "network": "telos"
+    },
+    {
+        "account": "0xA710DdA9C6a1cd85cF3ecaF10385efDcA19EDf88",
+        "healthFactor": 1.18513,
+        "network": "telos"
+    },
+    {
+        "account": "0x57d4F14241559676C7Bc5451bE778b95b777Dd34",
+        "healthFactor": 1.18701,
+        "network": "meter"
+    },
+    {
+        "account": "0x4D328e3F326C96b883b83Bfd8e29f3C2Ebfd4341",
+        "healthFactor": 1.19408,
+        "network": "telos"
+    },
+    {
+        "account": "0xCb928017e3695d0ae6F2f2B8e494eB1842dF350C",
+        "healthFactor": 1.20415,
+        "network": "telos"
+    },
+    {
+        "account": "0x895b0f1Ff536e8d280AdA29d14b8c22d0d919d09",
+        "healthFactor": 1.20544,
+        "network": "meter"
+    },
+    {
+        "account": "0x9892F867F0E3d54cf9EdA66Cf5886bd84D973e2f",
+        "healthFactor": 1.21222,
+        "network": "fuse"
+    },
+    {
+        "account": "0x5a3546Ef0467333d5f2176A2d13970032886139c",
+        "healthFactor": 1.22132,
+        "network": "fuse"
+    },
+    {
+        "account": "0x60c201C62D82A3e83E063B19683a7B670f7f63cf",
+        "healthFactor": 1.22783,
+        "network": "meter"
+    },
+    {
+        "account": "0x25a29b20CEb6a369D707a4af766dfC646F46FCE2",
+        "healthFactor": 1.23034,
+        "network": "telos"
+    },
+    {
+        "account": "0xd6F2B6A93dec9eB0372FA2f1cb05C37b8cBfB7a7",
+        "healthFactor": 1.23676,
+        "network": "meter"
+    },
+    {
+        "account": "0x46c4eb8bc58b00231fcff5BF5605fD630eccEdC9",
+        "healthFactor": 1.24447,
+        "network": "telos"
+    },
+    {
+        "account": "0xb30ded7c5eAa1853c433d2B034fA1aCdf26494f1",
+        "healthFactor": 1.27121,
+        "network": "telos"
+    },
+    {
+        "account": "0xd6F2B6A93dec9eB0372FA2f1cb05C37b8cBfB7a7",
+        "healthFactor": 1.28095,
+        "network": "telos"
+    },
+    {
+        "account": "0xCaA74dEBEae8b73de8a894E16CEEF7625c69C7fF",
+        "healthFactor": 1.28188,
+        "network": "meter"
+    },
+    {
+        "account": "0x7CAA741d741a38Be582fa619eA51f4657d85E85f",
+        "healthFactor": 1.29328,
+        "network": "fuse"
+    },
+    {
+        "account": "0xfDDFFf2C1A376CcEc92D9EFC11ec81BbD73BF7f0",
+        "healthFactor": 1.30081,
+        "network": "telos"
+    },
+    {
+        "account": "0x5a3546Ef0467333d5f2176A2d13970032886139c",
+        "healthFactor": 1.3191,
+        "network": "meter"
+    },
+    {
+        "account": "0xDF7fa906DA092cC30F868C5730c944F4D5431e17",
+        "healthFactor": 1.35609,
+        "network": "telos"
+    },
+    {
+        "account": "0xd70d5c4dD1B27273CD5A40953918be23CCe2913f",
+        "healthFactor": 1.36318,
+        "network": "telos"
+    },
+    {
+        "account": "0x57Ca5FB805A9EEC9943FB37065b6C42737974DFA",
+        "healthFactor": 1.36715,
+        "network": "meter"
+    },
+    {
+        "account": "0x8Fa2A5BAfA13E4004b6676bC6842687B208F34C5",
+        "healthFactor": 1.37342,
+        "network": "telos"
+    },
+    {
+        "account": "0x5f112059F1A95a852D6B1747a5496a84Dccaa596",
+        "healthFactor": 1.37456,
+        "network": "telos"
+    },
+    {
+        "account": "0xBfdC90836149D0C3DEC9fCc09c5CB8E36d177270",
+        "healthFactor": 1.3783,
+        "network": "meter"
+    },
+    {
+        "account": "0xBdB3DcDa3A1498583B681B74672Ab9e1E960184B",
+        "healthFactor": 1.38447,
+        "network": "telos"
+    },
+    {
+        "account": "0xA25bc8c1e230a476cB00f2e9c93ffC2D4e163dc5",
+        "healthFactor": 1.39462,
+        "network": "telos"
+    },
+    {
+        "account": "0xFDa16932cd56B9dCaB6877df96c3A6bbc6CB33c0",
+        "healthFactor": 1.40199,
+        "network": "telos"
+    },
+    {
+        "account": "0xc0f3886D8dCf23a2A97A7118E0B4dBAdd1C4602e",
+        "healthFactor": 1.42353,
+        "network": "fuse"
+    },
+    {
+        "account": "0xfF3f46CCD8FdDEb02A3Eba03D1B9848B2cD885d6",
+        "healthFactor": 1.43676,
+        "network": "telos"
+    },
+    {
+        "account": "0x2a55e321C6197Bb92F5E9C50bB438ca3FC5Efe93",
+        "healthFactor": 1.43863,
+        "network": "telos"
+    },
+    {
+        "account": "0x7DB6ac6fA3C8Aa2c6Fb9bDCd4800E8BAacDd2ee8",
+        "healthFactor": 1.44278,
+        "network": "meter"
+    },
+    {
+        "account": "0x723E39d4A32251BD3228edFedCf4a40219C55EF2",
+        "healthFactor": 1.45194,
+        "network": "meter"
+    },
+    {
+        "account": "0x30F89f5f4cF25f457B4D9cBFb64a64A97F00bED0",
+        "healthFactor": 1.47691,
+        "network": "telos"
+    },
+    {
+        "account": "0x488e628E48f43ebF36a79212a4Fa79BDF8C8cEEf",
+        "healthFactor": 1.47853,
+        "network": "telos"
+    },
+    {
+        "account": "0xc8B3F4ec3cE1B915a6F27Dc34172DA464BE803a6",
+        "healthFactor": 1.49231,
+        "network": "telos"
+    },
+    {
+        "account": "0xCF9706706aD4B3c65A1cdF95563eDe5BC84ed88d",
+        "healthFactor": 1.49884,
+        "network": "meter"
+    },
+    {
+        "account": "0x4808938d62C732F52785C6bE371016b9cFDBcD6d",
+        "healthFactor": 1.50014,
+        "network": "fuse"
+    },
+    {
+        "account": "0xDeD66bD9475A58e1Db2C25f1525555919d3250c6",
+        "healthFactor": 1.51846,
+        "network": "telos"
+    },
+    {
+        "account": "0xCaA74dEBEae8b73de8a894E16CEEF7625c69C7fF",
+        "healthFactor": 1.5347,
+        "network": "fuse"
+    },
+    {
+        "account": "0x02E7b714fae84e4BA80f3CDa5508553e7CF5042A",
+        "healthFactor": 1.54651,
+        "network": "telos"
+    },
+    {
+        "account": "0xCaA74dEBEae8b73de8a894E16CEEF7625c69C7fF",
+        "healthFactor": 1.54692,
+        "network": "telos"
+    },
+    {
+        "account": "0x4776EcD196d9103F44a27F12D208220DBe097529",
+        "healthFactor": 1.55977,
+        "network": "telos"
+    },
+    {
+        "account": "0xa80ffF6e84362aaFEFc02F60C4847d7b01F96115",
+        "healthFactor": 1.56433,
+        "network": "telos"
+    },
+    {
+        "account": "0x5Be66f4095f89BD18aBE4aE9d2acD5021EC433Bc",
+        "healthFactor": 1.60881,
+        "network": "telos"
+    },
+    {
+        "account": "0xcb9CBA9442A2E87f1471C8EA56115b78167b0e50",
+        "healthFactor": 1.61817,
+        "network": "telos"
+    },
+    {
+        "account": "0x6676A9628Af4BF3Ae0574eE492eE677a1e7f5934",
+        "healthFactor": 1.62209,
+        "network": "telos"
+    },
+    {
+        "account": "0xf74828BeE53a604bBD0A217d80Df5985db20Cf34",
+        "healthFactor": 1.62411,
+        "network": "fuse"
+    },
+    {
+        "account": "0x1e75bcFFD7CFDEe8D23280d5D615FEe883Bfdc65",
+        "healthFactor": 1.62929,
+        "network": "telos"
+    },
+    {
+        "account": "0x47354d298986326887f758361199AE6057Bb17db",
+        "healthFactor": 1.63161,
+        "network": "telos"
+    },
+    {
+        "account": "0x31e40209CFcdDa86bAabfe93a428CC9143A9eD30",
+        "healthFactor": 1.74572,
+        "network": "telos"
+    },
+    {
+        "account": "0x382849d62684651399412951D7b0943064B8C8Ef",
+        "healthFactor": 1.78164,
+        "network": "telos"
+    },
+    {
+        "account": "0xf2B26A38F626a377AFACA16532a55316c18DF0fA",
+        "healthFactor": 1.78348,
+        "network": "telos"
+    },
+    {
+        "account": "0xA88E8E6212D50b7Fa8EE7051E37e1284261e0b94",
+        "healthFactor": 1.84141,
+        "network": "telos"
+    },
+    {
+        "account": "0xCe8A98883ffcE1637787350FE8bf913b4DBa8D2B",
+        "healthFactor": 1.85203,
+        "network": "telos"
+    },
+    {
+        "account": "0x70Bf90C367e2977A5bBb7F3764e4eF183cfcd7DB",
+        "healthFactor": 1.86279,
+        "network": "telos"
+    },
+    {
+        "account": "0x7a1C71E87AD2020Ec53e87FED7C54892F9957ff0",
+        "healthFactor": 1.87338,
+        "network": "telos"
+    },
+    {
+        "account": "0xbd8bBB5832542D3C2137EF72EdEDca791058A653",
+        "healthFactor": 1.87579,
+        "network": "telos"
+    },
+    {
+        "account": "0x98c707b3F3bBF9d86b51A4Cf66Fc896e049C34C7",
+        "healthFactor": 1.8893,
+        "network": "telos"
+    },
+    {
+        "account": "0x12fC559c291AB96B9Ef6E0282F3877eEf5a628b5",
+        "healthFactor": 1.88958,
+        "network": "telos"
+    },
+    {
+        "account": "0xE17119D8613009483f02499B27F93E497F19E571",
+        "healthFactor": 1.89922,
+        "network": "telos"
+    },
+    {
+        "account": "0x98b0ECD49B455e1CC56dbcD3EfC00E161a144c73",
+        "healthFactor": 1.96649,
+        "network": "telos"
+    },
+    {
+        "account": "0xdAA8BD7e1Db2d3CCa18f71bDdBAcD32ed37C5BfA",
+        "healthFactor": 1.97956,
+        "network": "telos"
+    },
+    {
+        "account": "0x725E052c654f3E55a843e0033A1470289ddd020A",
+        "healthFactor": 2.01632,
+        "network": "fuse"
+    },
+    {
+        "account": "0x14ad37333Ab3E639819d2b2Fe655c74cAad9Aec4",
+        "healthFactor": 2.17349,
+        "network": "telos"
+    },
+    {
+        "account": "0x0C6E9e65e767Ca7961c1690a96C2cB98714305FB",
+        "healthFactor": 2.29961,
+        "network": "telos"
+    },
+    {
+        "account": "0xf6049C022D41C3D1e8689864Ea804eEBE145e5d8",
+        "healthFactor": 2.39475,
+        "network": "meter"
+    },
+    {
+        "account": "0x5D2a791222e6470C3c2329eb1b773b3C8e5B1C23",
+        "healthFactor": 2.42947,
+        "network": "telos"
+    },
+    {
+        "account": "0x3b81739a55c4431c2Ff5b9107f6259b8E38C85b0",
+        "healthFactor": 2.58514,
+        "network": "telos"
+    },
+    {
+        "account": "0x795Eeb52f09a31D0e610af38077843d369c5d0eD",
+        "healthFactor": 2.72723,
+        "network": "telos"
+    },
+    {
+        "account": "0x16ea2e8c19Cea329b46EC65050c1C3B9aE375D93",
+        "healthFactor": 2.87825,
+        "network": "telos"
+    },
+    {
+        "account": "0xc75fcBdAA0cC1F207c8B2b71aa6229CC67881eAD",
+        "healthFactor": 3.24563,
+        "network": "meter"
+    },
+    {
+        "account": "0x06f07090AFDf5DECeab8c434e324ADc07A7B0376",
+        "healthFactor": 3.86222,
+        "network": "telos"
+    },
+    {
+        "account": "0xfaABC9d152b650e9d2DC07A96aB77b948594C956",
+        "healthFactor": 3.97654,
+        "network": "telos"
+    },
+    {
+        "account": "0xD2839749B28A048e6A82257B4292515165e0eadA",
+        "healthFactor": 3.98908,
+        "network": "meter"
+    },
+    {
+        "account": "0xC7410f107D4b7172c7D7AC333784bd6F3Daebc78",
+        "healthFactor": 4.39671,
+        "network": "telos"
+    },
+    {
+        "account": "0x6b5F7d67071a002E12Ba98EF1537437AD92e7c1f",
+        "healthFactor": 203.08711,
+        "network": "telos"
+    },
+    {
+        "account": "0x5a35282125647253AFD8AF1a43BCDE757bC10b3B",
+        "healthFactor": 424.28161,
+        "network": "telos"
+    }
+]
